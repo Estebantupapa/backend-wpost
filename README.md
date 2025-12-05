@@ -29,5 +29,5 @@ API REST para gestión de productos con autenticación JWT.
 - `PUT /api/products/{id}` - Actualizar producto (Requiere JWT)
 - `DELETE /api/products/{id}` - Eliminar producto (Requiere JWT)
 
-##Nota:
+### Nota
 - Probar Endpoints con Postman, Swagger no funcionó.
